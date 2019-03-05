@@ -23,11 +23,50 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+/*brown: 2,*/
+/*orange: 4,*/
+/*lilac: 4,*/
+/*green: 2,*/
+/*yellow: 4,*/
+/*red: 5,*/
+/*blue: 6,*/
+/*pink: 3,*/
+
+.brown {
+  color: brown;
+}
+
+.orange {
+  color: orange;
+}
+
+.lilac {
+  color: violet;
+}
+
+.green {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.pink {
+  color: pink;
 }
